@@ -121,10 +121,10 @@ pip install -r req.txt
 # Пример использования, иллюстрированный процессом обработки скринкаста.
 
 
-https://github.com/Fresh-vano/Winstrike-kids/assets/74467916/bc57ae3c-4c43-493f-bae4-74a649f2868a
+https://github.com/user-attachments/assets/2a0eb17a-4998-4f17-8a25-a8b4491b813a
 
 
-*Ознакомиться с видео в хорошем качестве можете перейдя по [ссылке](https://drive.google.com/file/d/1-_Ky1P6hfJHz-jfd6TEr2ljGDHaUzHa2/view) или открыть указаную нами ссылку на сайте цифрового прорыва.*
+*Ознакомиться с видео в хорошем качестве можете перейдя по [ссылке](https://disk.yandex.ru/i/5YWgpb6LjG-fjw) или открыть указаную нами ссылку на сайте цифрового прорыва.*
 
 # Пример работы програмного модуля
 
