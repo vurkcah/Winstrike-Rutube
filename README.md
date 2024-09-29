@@ -128,7 +128,8 @@ https://github.com/user-attachments/assets/2a0eb17a-4998-4f17-8a25-a8b4491b813a
 
 # Пример работы програмного модуля
 
-![gif](https://github.com/Fresh-vano/Winstrike-kids/assets/74467916/36c37fdb-3bc5-4a41-b9c7-9a5d97ddbf63)
+![gif](https://github.com/user-attachments/assets/cdd8eec4-8f7d-4ede-a1a3-b8bba3756cee)
+
 
 
 
